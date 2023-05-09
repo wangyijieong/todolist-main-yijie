@@ -1,0 +1,26 @@
+[
+	{
+		"id" : 1,
+		"title" : "Run Errands",
+		"description" : "To buy Kuih Lapis for family, and Jean and Bryan",
+		"targetDate" : "2021-06-05"
+	},
+	{
+		"id" : 2,
+		"title" : "JFSD Project Task",
+		"description" : "Complete Frontend and Backend structure for JSFD course",
+		"targetDate" : "2021-05-28"
+	},
+	{
+		"id" : 3,
+		"title" : "JFSD Portfolio",
+		"description" : "To complete my portfolio and upload to Github",
+		"targetDate" : "2021-05-30"
+	},
+	{
+		"id" : 4,
+		"title" : "XXX",
+		"description" : "XXX",
+		"targetDate" : "2023-05-11"
+	}
+]
